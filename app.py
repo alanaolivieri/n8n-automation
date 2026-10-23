@@ -9,8 +9,8 @@ import plotly.express as px
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
-DATA = ROOT / "data" / "reviews-clients.xlsx"
-# DATA = "https://raw.githubusercontent.com/alanaolivieri/n8n-automation/main/data/reviews-clients.xlsx"
+# DATA = ROOT / "data" / "reviews-clients.xlsx"
+DATA = "https://raw.githubusercontent.com/alanaolivieri/n8n-automation/main/data/reviews-clients.xlsx"
 
 COLOR_BACKGROUND = "#f3f5f3"
 COLOR_TEXT = "#172c32"
