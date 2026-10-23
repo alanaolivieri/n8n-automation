@@ -127,7 +127,7 @@ Los filtros aparecen sobre los indicadores y permiten:
 
 Todos los indicadores, el gráfico, los comentarios destacados y la tabla reflejan los filtros activos.
 
-El dashboard incluye:
+El [dashboard](https://n8n-automation-demo.streamlit.app/) incluye:
 
 | Elemento | Qué muestra |
 | --- | --- |
